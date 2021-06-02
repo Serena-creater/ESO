@@ -1,0 +1,93 @@
+ol{
+  display:table;
+  margin:0 auto;
+}
+
+ul{
+  display:table;
+  margin:0 auto;
+}
+
+body {
+  background-color:while;
+}
+
+
+.haa {
+  background-color:#609f9f;
+  font-size:90px;
+  text-align: center;
+}
+
+.hab {
+  background-color:#80b3b3;
+  font-size:70px;
+  text-align: center;"
+}
+
+.hac {
+  background-color:#8fbcbc;
+  font-size:50px;
+  text-align: center;
+}
+
+.had {
+  background-color:#9fc6c6;
+  font-size:30px;
+  text-align: center;
+}
+
+
+
+
+#hba {
+  text-align: center;
+}
+
+
+#pa {
+  text-align:center;
+}
+
+  /* Style the footer */
+  footer {
+    background-color:#add8e6;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+
+ /* Style the navigation menu */
+  nav {
+    background: #add8e6;
+    /* display:inline; */
+    padding: 45px 0px 45px 0px;
+    margin: 0px 50px 0px 50px;
+    text-align:center;
+  }
+  nav a {
+    text-decoration: none;
+    padding: 20px 50px 20px 50px;
+    text-align: center;
+    background-color: #87cefa;
+    color: white;
+    margin: 0;
+     }
+  /* Style the list inside the menu */
+  nav a:hover {
+    background-color:#add8e6;
+    padding: 10px 15px 10px 15px;
+    width:100%;
+    color:white;
+  }
+ /* Style the header */
+  .navBar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    text-align: center;
+  }
+  
+  figure {
+    margin: 0;
+}
